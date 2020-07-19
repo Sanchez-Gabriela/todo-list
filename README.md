@@ -14,3 +14,6 @@ Functionality:
 - Remove tasks
 
 
+<img src="/screenshots/todolist.png" width="600" />
+
+
